@@ -1,0 +1,3 @@
+[submodule "extern/csv-lib"]
+	path = extern/csv-lib
+	url = ../../hwse/csv-lib.git
